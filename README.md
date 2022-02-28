@@ -9,7 +9,7 @@ This is  Simplified version of Blackjack Game which developed by object oriented
 ● Game Consisits of 4 players (3 players and one dealer) and Deck of cards (52 cards ).<br />
 ● First of all , Dealer will give each player 2 cards and take 2 also for himself . The 3 players can see the cards of each other but see only one card of the dealer’s cards (second card  is hidden) . Dealer of course can see the cards of each player .<br />
 ● Game consist of 4 turns go as following : <br />
- ✔The first 3 turns go as  follwoing : the  playeri [i from 1 to 3 ] wants to collect cards that make his score less than or equal 21 (note : he wants to maximize his score as he  can or he maybe will lose 👎). The score of the player is the sum of the values of cards he has .
+ ✔The first 3 turns go as  follwoing : the  player i [i from 1 to 3 ] wants to collect cards that make his score less than or equal 21 (note : he wants to maximize his score as he  can or he maybe will lose 👎). The score of the player is the sum of the values of cards he has .
  
  ![blackjack-card-value](https://user-images.githubusercontent.com/99830416/156063405-e3bb790f-ffb3-4a14-a5db-91bed8a90ec3.jpg)
  <br />
