@@ -13,7 +13,7 @@ This is  Simplified version of Blackjack Game which developed by object oriented
  
  ![blackjack-card-value](https://user-images.githubusercontent.com/99830416/156063405-e3bb790f-ffb3-4a14-a5db-91bed8a90ec3.jpg)
  <br />
-Player i has 2 options : 1️⃣ Hit : means that he want to take  another card (he cannot Hit if his score is more than or equal 21) . 2️⃣ Stand : means that he don’t need another card and his turn will end  . <br />
+Player i has 2 options : <br /> 1️⃣ Hit : means that he want to take  another card (he cannot Hit if his score is more than or equal 21) . <br /> 2️⃣ Stand : means that he don’t need another card and his turn will end  . <br />
  ✔The Fourth turn (the last) goes as following : dealer will start taking cards hope to be the winner and beat all players or he will lose (as his score be greater than 21 ) and one of the three players will win .
 #### Who will win ? 
 There are 2 cases : <br /> ☞ each player who has score = 21 called Blackjack and be winner else are losers . <br />
