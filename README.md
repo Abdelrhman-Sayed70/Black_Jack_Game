@@ -5,6 +5,7 @@ This is  Simplified version of Blackjack Game which developed by object oriented
 ![R](https://user-images.githubusercontent.com/99830416/156048934-9867ddba-4c81-49d8-84e1-ba5c6e472411.jpg)
 ●Blackjack (formerly **Black Jack** or **Vingt-Un** or **Twenty-One**) is a casino banking game.The most widely played casino banking game in the world, it uses decks of 52 cards and descends from a global family of casino banking games known as Twenty-One. This family of card games also includes the British game of Pontoon and the European game, Blackjack players do not compete against each other. The game is a comparing card game where each player competes
 ## Rules of the Game
+*[This video will help to understand](https://www.youtube.com/watch?v=24eo9AZzEoQ&t=250s)*<br />
 ● Game Consisits of 4 players (3 players and one dealer) and Deck of cards (52 cards ).<br />
 ● First of all , Dealer will give each player 2 cards and take 2 also for himself . The 3 players can see the cards of each other but see only one card of the dealer’s cards (second card  is hidden) . Dealer of course can see the cards of each player .<br />
 ● Game consist of 4 turns go as following : <br />
